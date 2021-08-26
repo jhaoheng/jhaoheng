@@ -9,13 +9,6 @@ I work as a senior golang developer and am good at AWS services to build serverl
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="jhaoheng's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=maxhu&show_icons=true&hide_border=true" />
-
-</details>
-
 <br />
 
 [website]: https://jhaoheng.github.io/blogpost/
