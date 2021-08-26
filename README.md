@@ -6,7 +6,7 @@ I work as a senior golang developer and am good at AWS services to build serverl
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/jhaohenghu)
 
 ---
-[![Connect on LinkedIn](./assets/aws_certified_3.svg)](https://www.credly.com/users/max-hu.6cc82f12)
+[![Connect on LinkedIn](./assets/aws_certified_5.svg)](https://www.credly.com/users/max-hu.6cc82f12)
 
 <br />
 <br />
